@@ -1,0 +1,13 @@
+body {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+header {
+    background-color: #85C4FF;
+    padding: 40px;
+}
+
+header nav { /* specify nav since there can be sub-navs, etc*/
+    
+}
